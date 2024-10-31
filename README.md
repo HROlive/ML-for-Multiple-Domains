@@ -30,4 +30,4 @@ More detailed information and links for the course can be found on the [course w
 
 The certificate for the workshop can be found below:
 
-["Machine Learning for Multiple Domains: From Concepts to Implementation" - NCC Turkey, NCC Montenegro, NCC North Macedonia, and HPC Serbia]() (Issued On: October 2024)
+["Machine Learning for Multiple Domains: From Concepts to Implementation" - NCC Turkey, NCC Montenegro, NCC North Macedonia, and HPC Serbia](https://github.com/HROlive/ML-for-Multiple-Domains/blob/main/images/certificate.pdf) (Issued On: October 2024)
